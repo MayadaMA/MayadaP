@@ -1,0 +1,44 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+article {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.social-links button {
+    margin: 5px;
+    padding: 10px 15px;
+    background-color: crimson;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.social-links button:hover {
+    background-color: darkred;
+}
+
+.hobbies, .projects {
+    margin-top: 20px;
+}
+
+ul {
+    padding-left: 20px;
+}
